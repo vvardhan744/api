@@ -1,0 +1,33 @@
+Data: [
+{
+_id: "5d282f6790e3442d7d83a8b2",
+userName: "Ganesh",
+firstName: "Kalisetti",
+lastName: "Vishnu",
+email: "vvardhan744@gmail.com",
+password: "Hello@132",
+__v: 0
+},
+{
+_id: "5d282fa590e3442d7d83a8b3",
+userName: "Ganesh",
+firstName: "Kalisetti",
+lastName: "Vishnu",
+email: "vvardhan744@gmail.com",
+password: "Hello@13112",
+__v: 0
+},
+{
+_id: "5d285b755a740818ec240744",
+__v: 0
+},
+{
+_id: "5d285b8e5a740818ec240745",
+userName: "Ganesh",
+firstName: "Kalisetti",
+lastName: "Vishnu",
+email: "vvardhan744@gmail.com",
+password: "Hello@13112",
+__v: 0
+}
+]
